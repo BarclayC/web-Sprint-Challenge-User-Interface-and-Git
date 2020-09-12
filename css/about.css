@@ -97,7 +97,7 @@ header nav a {
 }
 
 .container-about-page {
-  width: 100%;
+  width: 48%;
   margin: 0 auto;
 }
 
@@ -110,7 +110,7 @@ header nav a {
 }
 
 .top-content .text-container {
-  width: 48%;
+  width: 100%;
   padding: 0 1%;
   padding-bottom: 20px;
 }
@@ -132,7 +132,7 @@ header nav a {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  width: 24%;
+  width: 48%;
   padding: 0 1%;
   padding-bottom: 20px;
 }
